@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Prof. Shugen Ma visited CHEC and Dr. Aliaksei Miniukovich gave a seminar lecture"
+date:   2019-01-15
+categories: Events, Talks, Visitors
+author: Chen Wang
+---
+
+Aliaksei Miniukovich is a postdoctoral researcher at the University of Trento. In addition to working on his true passion - computational aesthetics - Aliaksei conducts research on the quality of graphical user interfaces and its impact on user preferences, feelings and behavior. Aliaksei research heavily relies on quantitative methods and computational models, with an occasional use of qualitative methods when needed. Aliaksei serves as an associate editor for the International Journal of Human-Computer Studies and frequently reviews submissions for a variety of HCI journals and conferences. Aliaksei recent work was recognized with 2 Best Paper Honorable Mention and an Excellent Reviewer Award at the CHI conferences.
+

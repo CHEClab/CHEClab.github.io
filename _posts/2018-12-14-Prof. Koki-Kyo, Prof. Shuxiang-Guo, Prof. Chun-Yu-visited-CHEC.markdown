@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Prof. Koki Kyo, Prof. Shuxiang Guo, Prof. Chun Yu visited CHEC"
+date:   2018-12-14
+categories: Events, Talks, Visitors
+author: Chen Wang
+---
+
+Nowadays, mobile/wearable devices such as smartphones, smartwatches, and head-mounted displays are establishing a ubiquitous interaction environment, where users can access information anywhere and anytime. However, there exist a number of challenging factors that inhibit efficient information exchange between users and computing devices, including the limited form factor of the device, motor and situational impairment, and inaccuracy of input data. My work combines the computational approach with interaction design to overcome these limits, targeting fundamental interactive tasks such as pointing, object/command selection and text entry. In this talk, I will elaborate on a Bayesian inference-based framework to interpret users’ input intention, and use my recent works as examples.
+
+

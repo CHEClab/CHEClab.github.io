@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Prof. WATANABE Tomio visited CHEC"
+date:   2019-01-25
+categories: Events, Talks, Visitors
+author: Chen Wang
+---
+
+[http://hint.cse.oka-pu.ac.jp/~watanabe/index.html](http://hint.cse.oka-pu.ac.jp/~watanabe/index.html)
+

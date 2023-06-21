@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Prof. Hideaki Kuzuoka from The University of Tokyo visited CHEC"
+date:   2020-01-17
+categories: Events, Talks, Visitors
+author: Lancy LAN
+---
+
+Hideaki Kuzuoka is a Full Professor at the Graduate school of Information Science and Technology, The University of Tokyo. His main research field is CSCW/groupware. While he got his bachelor's degree from Mechanical Engineering and his preference for gadgets, he is one of the pioneers who introduced robots and gadgets to CSCW research. He has been working with Ethnomethodologists for more than 10 years and the research formation enable them the long-term iteration of development and evaluation cycle. The research group is well known  to the CSCW and HCI (Human Computer Interaction) communities in the world and their papers are continuously accepted by the highly rated international conferences like CHI, CSCW, and ECSCW.

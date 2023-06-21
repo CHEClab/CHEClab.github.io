@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Prof. Anirudha Joshi from IIT Bombay visited CHEC, Kochi University of Technology"
+date:   2019-06-17
+categories: Events, Talks, Visitors
+author: 
+---
+ 
+Anirudha Joshi is professor in the interaction design stream in the IDC School of Design, IIT Bombay, though currently he is on a sabbatical, visiting universities in the UK. His specialises in design of interactive products for emergent users in developing economies. He has worked in diverse domains including healthcare, literacy, Indian language text input, banking, education, industrial equipment, and FMCG packaging. Anirudha also works in the area of integrating HCI with software engineering. Anirudha is active with many HCI communities. He has played various roles in conferences including India HCI, INTERACT and CHI. He is the founding director of HCI Professionals Association of India. He represents India on IFIP TC13.  He is the Liaison for India for the ACM SIGCHI Asian Development Committee and the VP Finance of the ACM SIGCHI Executive Committee. You can find more about him here: http://www.idc.iitb.ac.in/~anirudha/aboutmeformal.htm

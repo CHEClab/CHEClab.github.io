@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Prof.Masaki Nakagawa from Tokyo University of Agriculture and Technology visited CHEC, Kochi University of Technology"
+date:   2019-12-20
+categories: Events, Talks, Visitors
+author: 
+---
+
+![Prof.Masaki Nakagawa from Tokyo University of Agriculture and Technology visited CHEC](https://live.staticflickr.com/65535/49268938772_8a1f70473c_z.jpg)
+
+Prof.Masaki Nakagawa from Tokyo University of Agriculture and Technology visited CHEC and gave two talks entitled "Latest Applications of Deep Neural Networks to Handwriting Recogintion and Identification" and "人を育て，地域を潤し，大学を伸ばす知的創造サイクル".
+

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Prof. Wen Gao from Peking University visited CHEC, Kochi University of Technology"
+date:   2019-04-08
+categories: Events, Talks, Visitors
+author: Lancy LAN
+---
+
+Wen Gao is a Boya Chair Professor at Peking University. He received his Ph.D. degree in electronics engineering from the University of Tokyo in 1991. He joined with Harbin Institute of Technology from 1991 to 1995, and Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS) from 1996 to 2005. He joined the Peking University in 2006. He is Professor and Dean, School of EE and CS, Peking University. He is also the President of CCF (China Computer Federation).
+
+Prof. Gao works in the areas of multimedia and computer vision, topics including video coding, video analysis, multimedia retrieval, face recognition, multimodal interfaces, and virtual reality. His most cited contributions are model-based video coding and face recognition. He published seven books, over 270 papers in refereed journals, and over 700 papers in selected international conferences. He is a fellow of IEEE, a fellow of ACM, and a member of the Chinese Academy of Engineering.

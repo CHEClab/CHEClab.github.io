@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Prof.Antti Oulasvirta visit"
+date:   2018-08-23
+categories: Events, Talks, Visitors
+author: Han Zengyi
+---
+
+
+![Figure](https://farm2.staticflickr.com/1912/44374426064_4860dae129_c.jpg)
+
+Prof Antti Oulasvirta came to CHEC and gave a talk about Computational Interaction.
+ Abstract:
+ Combinatorial optimization refers to algorithmic search for a combination of design decisions that best meets stated design objectives. Published applications in HCI include keyboards, menu systems, graphical user interfaces, information visualizations, and input methods. In this block, we first learn three basic concepts: design space (feasible set), objective function, and search method. A plain vanilla black box optimizer implements these principles in a practical manner. Our exercises apply it in layout design tasks of increasing difficulty. In the latter part, we focus on heuristic methods for improving search performance. The last part looks at advanced topics, such as the design of multi-objective, robust, and dynamic methods.

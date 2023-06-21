@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "CHEC at CHI 2017"
+date:   2017-06-04
+categories: Events, Talks, Visitors
+author: HAN Zengyi
+---
+Abstract: Cognitive impairments decrease the quality of life of the elderly. Earlier studies show multitasking sedentary video games are an effective intervention. However, little work has studied multitasking motion video games which can be more directly beneficial for overall wellbeing. This project investigates the efficacy of multitasking motion video games for the cognitive enhancement of the elderly. As a response to this situation, we developed a custom-made game called Safari Move. Here we report the initial step towards our goal in which we studied whether or not elderly people enjoy playing our game. Two important game elements were studied - skill balancing methods and controller types. Our results demonstrate that our participants enjoyed playing our game, and that they prefer manual over dynamic difficulty adjustment, and Microsoft Kinect over Gamepad. Future work will use neuroimaging and cognitive assessment tools to investigate the effectiveness of Safari Move to enhance cognitive function.

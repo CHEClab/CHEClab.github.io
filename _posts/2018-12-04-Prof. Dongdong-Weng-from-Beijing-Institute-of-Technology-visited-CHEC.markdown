@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Prof. Dongdong Weng from Beijing Institute of Technology visited CHEC"
+date:   2018-12-04
+categories: Events, Talks, Visitors
+author: Chen Wang
+---
+
+Dr. Weng Dongdong is a professor in the School of Optics and Photonics, Beijing Institute of Technology (BIT), Beijing, China. He received his B.A.degree in 2001 and Ph.D. in 2006 from BIT. He spent six months at Australian National University as a visiting scholar in 2013.
+
+Dr. Weng’s research focuses on the researching and developing fields of virtual and augmented reality and human-computer interaction, in particular on the research of high immersive virtual reality system, wide-area mixed reality system, theme park design based on virtual and augmented reality technology, and psychology and cognitive neuroscience of virtual and augmented reality.
+
+As a primary investigator, Dr. Weng has participated and led the following national research projects: the National Science-Technology “863” Project—Virtual-Reality Integration Display Devices, National Supporting Projects—the Public Service Platform of digitization of culture heritage and Application Paradigm of its Industrialization and the Rehabilitation Technology and Product Development for Patients with Diabetes and Diabetes-related Complications, National Nature Science Foundation Project—the Utilization of Coded-Aperture-Imaging based Range Image Acquisition in the Dynamic Virtual Cover of Augmented Reality. He had been awarded the second prize of national technological innovation, the first prize of provincial-level technological innovation, second prize of provincial-level technological progress, and so on. He and his team have published more than 50 research articles and received 5 patents. 

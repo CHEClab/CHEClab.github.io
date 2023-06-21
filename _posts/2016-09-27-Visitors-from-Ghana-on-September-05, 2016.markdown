@@ -1,0 +1,24 @@
+<!--
+ * @Author: heycheesecheese xrenlab2023@gmail.com
+ * @Date: 2023-06-04 10:32:04
+ * @LastEditors: heycheesecheese xrenlab2023@gmail.com
+ * @LastEditTime: 2023-06-20 21:43:32
+ * @FilePath: \XRenlab.github.io\_posts\2016-09-27-Visitors-from-Ghana-on-September-05, 2016.markdown
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
+---
+layout: post
+title:  "Visitors from Ghana on September 05, 2016"
+date:   2016-09-27
+categories: Events, Talks, Visitors
+author: mahmoud
+---
+
+
+
+![Figure](https://farm9.staticflickr.com/8198/29469478165_5901da1b90_c.jpg)
+
+![Figure](https://farm9.staticflickr.com/8373/29469478575_18d4c3b0fb_c.jpg)
+Tuesday, September 27, 2016
+
+CHEC members presented ongoing research to 20 visitors fro Ghana and 10 visitors from Japan.

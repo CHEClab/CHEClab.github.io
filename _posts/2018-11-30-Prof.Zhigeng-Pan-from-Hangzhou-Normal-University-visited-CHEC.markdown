@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Prof.Zhigeng Pan from Hangzhou Normal University visited CHEC"
+date:   2018-11-30
+categories: Events, Talks, Visitors
+author: Chen Wang
+---
+
+Prof. Zhigeng Pan is the Vice President of China Society of Image and Graphics, Director of Institute of VR & Intelligent System, Hangzhou Normal University, China, Deputy Director of Technical Committee on VR and Visualization of CCF and Director of Institute of VR Research in Industry, Guangdong Province, China.  
+ 
+Prof. Zhigeng Pan got his Ph.D. degree in 1993, and he became a full professor at Zhejiang University in 1996 because of his excellent academic performance. He has published more than 100 technical papers on important journals (such as PAMI, TVCG, IEEE Multimedia...) and conferences (such as ACM Multimedia, IEEE VR, et al). He is a member of IEEE, ACM SIGGRAPH. His research interests include VR and HCI. Currently, he is the Editor-in-Chief of <<Transactions on Edutainment>>. He is the program co-chair of CASA’2011, SIGGRAPH Asia 2011（Sketches and Posters）, IEEE VR 2013, SIGGRAPH Asia’2016(Symposium on Education), and the conference co-chair of VRCAI’2012/ VRCAI’2013/VRCAI’2015/CW’2016/Edutainment 2018.
