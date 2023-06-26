@@ -1,0 +1,38 @@
+/**
+ * Header Sass
+ */
+
+.blog-background {
+    margin-top: -16px;
+    width:100%;
+    box-shadow:8px 8px 8px 8px #999 inset;  
+}
+
+.blog-avatar {
+    margin-top: -50px;
+}
+
+.blog-list {
+    padding-top: 50px;
+}
+
+.blog-name {
+    text-align: center;
+    margin: 10px 0 10px 0;
+}
+
+.blog-options {
+    margin-top: 10px;
+}
+
+.member-mini-list {
+    .member-mini-list-element {
+        margin: 10px 0 10px 0;
+
+        .member-mini-list-element-img {
+            width: 50px;
+            height: 50px;
+            object-fit: cover;
+        }
+    }
+}

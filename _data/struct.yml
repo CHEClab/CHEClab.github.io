@@ -1,0 +1,21 @@
+nav:
+
+- title: Home
+  url: /
+  order: 1
+
+- title: Members
+  url: /members/
+  order: 2
+
+- title: News
+  url: /news/
+  order: 3
+
+- title: Photos
+  url: "http://xiangshiren.com/"
+  order: 4
+
+- title: Publications
+  url: /publications/
+  order: 5

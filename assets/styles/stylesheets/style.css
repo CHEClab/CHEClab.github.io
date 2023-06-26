@@ -1,0 +1,197 @@
+/**
+ * Settings
+ * Colors & Fontsize
+ */
+/**
+ * Colors
+ */
+/**
+ * Fontsize
+ */
+/**
+ * Images
+ */
+/**
+ * Font-Family
+ */
+/**
+ * Body Global Sass
+ */
+/* line 10, ../sass/component/_body.scss */
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  /* line 14, ../sass/component/_body.scss */
+  html {
+    font-size: 16px;
+  }
+}
+/* line 19, ../sass/component/_body.scss */
+.container {
+  max-width: 960px;
+}
+
+/* line 23, ../sass/component/_body.scss */
+.pricing-header {
+  max-width: 700px;
+}
+
+/* line 27, ../sass/component/_body.scss */
+.card-deck .card {
+  min-width: 220px;
+}
+
+/* line 31, ../sass/component/_body.scss */
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+
+/* line 32, ../sass/component/_body.scss */
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+/* line 34, ../sass/component/_body.scss */
+.box-shadow {
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.05);
+}
+
+/* line 36, ../sass/component/_body.scss */
+body {
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  height: 100%;
+}
+
+/**
+ * Header Sass
+ */
+/* line 6, ../sass/component/_home.scss */
+.home-search-bar .form-control {
+  border: 1px solid white;
+}
+
+/* line 11, ../sass/component/_home.scss */
+.home-slide-img {
+  width: 610px;
+  height: 305px;
+  object-fit: cover;
+}
+
+/* line 17, ../sass/component/_home.scss */
+.home-cover {
+  position: relative;
+}
+/* line 20, ../sass/component/_home.scss */
+.home-cover .home-cover-title {
+  z-index: 20;
+  position: absolute;
+  width: 100%;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.3);
+  bottom: 0;
+  padding: 10px;
+  margin-bottom: 0;
+}
+/* line 31, ../sass/component/_home.scss */
+.home-cover .home-cover-picture {
+  width: 100%;
+  object-fit: cover;
+}
+
+/* line 37, ../sass/component/_home.scss */
+.form-group--search {
+  position: relative;
+}
+
+/* line 39, ../sass/component/_home.scss */
+.form-group--search .btn-submit {
+  background: transparent;
+  border: none;
+  position: absolute;
+  top: -1px;
+  height: 100%;
+  color: #838E95;
+  padding-left: 2px;
+  padding-right: 0;
+}
+
+/**
+ * Header Sass
+ */
+/* line 5, ../sass/component/_blog.scss */
+.blog-background {
+  margin-top: -16px;
+  width: 100%;
+  box-shadow: 8px 8px 8px 8px #999 inset;
+}
+
+/* line 11, ../sass/component/_blog.scss */
+.blog-avatar {
+  margin-top: -50px;
+}
+
+/* line 15, ../sass/component/_blog.scss */
+.blog-list {
+  padding-top: 50px;
+}
+
+/* line 19, ../sass/component/_blog.scss */
+.blog-name {
+  text-align: center;
+  margin: 10px 0 10px 0;
+}
+
+/* line 24, ../sass/component/_blog.scss */
+.blog-options {
+  margin-top: 10px;
+}
+
+/* line 29, ../sass/component/_blog.scss */
+.member-mini-list .member-mini-list-element {
+  margin: 10px 0 10px 0;
+}
+/* line 32, ../sass/component/_blog.scss */
+.member-mini-list .member-mini-list-element .member-mini-list-element-img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+
+/**
+ * Experiment Sass
+ */
+/* line 5, ../sass/component/_experiment.scss */
+.card-img-top {
+  max-width: 353px;
+}
+
+/* line 9, ../sass/component/_experiment.scss */
+.webpage-fix {
+  width: 100%;
+}
+
+/**
+ * Header Sass
+ */
+/**
+ * Header Sass
+ */
+/* line 7, ../sass/component/_main.scss */
+main .main-margin {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+/* line 13, ../sass/component/_main.scss */
+main .card .card-bulletin-add {
+  color: #bdbdbd;
+}
+
+/**
+ * Footer Sass
+ */
+/* line 9, ../sass/component/_footer.scss */
+footer {
+  background-color: none;
+}
