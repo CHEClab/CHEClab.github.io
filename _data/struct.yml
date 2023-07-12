@@ -12,10 +12,10 @@ nav:
   url: /news/
   order: 3
 
-- title: Photos
-  url: "http://xiangshiren.com/"
-  order: 4
-
 - title: Publications
   url: /publications/
+  order: 4
+
+- title: Photos
+  url: "https://www.flickr.com/photos/123468034@N06/albums"
   order: 5

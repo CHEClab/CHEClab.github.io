@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<main>
+    <div class="container">
+        <div class="row">
+        <div class="col-xl-12">
+            <h2>News</h2>
+            {% for post in site.posts %}
+            <div>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <h3>
+            <a class="post-link" href="{{ post.url }}">
+            {{ post.title }}
+            </a>
+            </h3>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+</main>

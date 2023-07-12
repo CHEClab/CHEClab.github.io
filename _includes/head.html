@@ -1,21 +1,20 @@
 <head>
   <meta charset="UTF-8">
-  <title>{{ _(handler.title) }}</title>
-  <link rel="stylesheet" href="{{ static_url('/assets/styles/stylesheets/bootstrap.min.css') }}">
-  <link rel="stylesheet" href="{{ static_url('/assets/styles/stylesheets/style.css') }}">
-  <link rel="icon" href="{{ static_url('/assets/favicon.ico') }}">
-  <script src="{{ static_url('/assets/libs/holderjs/holder.js') }}"></script>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-32872028-1"></script>
-  <script>
-      window.dataLayer = window.dataLayer || [];
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico"> 
 
-      function gtag() {
-          dataLayer.push(arguments);
-      }
-      gtag('js', new Date());
+  <!-- Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
 
-      gtag('config', 'UA-32872028-1');
-  </script>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles/stylesheets/bootstrap.min.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles/stylesheets/style.css">
+  <link rel="icon" href="{{ site.baseurl }}/assets/favicon.ico">
+  <script src="{{ site.baseurl }}/assets/libs/holderjs/holder.js"></script>
+
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
 </head>
