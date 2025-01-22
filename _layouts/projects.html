@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<main>
+    <div class="container">
+        <div class="row">
+        <div class="col-xl-12">
+            
+            <h2>Projects</h2>
+            <br>
+            {% for project in site.pages %}
+            {% if project.path contains 'static/projects' %}
+            <div>
+            <h5>
+            <a class="post-link" href="{{ project.url }}">
+            {{ project.title }}
+            </a>
+            </h5>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
+</main>

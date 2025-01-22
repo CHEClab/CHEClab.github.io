@@ -1,0 +1,43 @@
+---
+layout: default
+---
+<main>
+    <div class="container">
+        <div class="col-xl-12">
+            {{ content }}
+        </div>
+    </div>
+</main>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // 获取所有表格
+    const tables = document.getElementsByTagName('table');
+
+    // 遍历每个表格
+    for(let table of tables) {
+        // 添加Bootstrap表格类
+        table.classList.add('table');
+        
+        
+        // 获取所有行
+        const rows = table.getElementsByTagName('tr');
+        
+        // 遍历每一行
+        for(let row of rows) {
+            // 设置行样式
+            row.style.borderBottom = '1px solid #ddd';
+            
+            // 获取第一列单元格
+            const firstCell = row.cells[0];
+            if(firstCell) {
+                // 获取单元格中的图片
+                const img = firstCell.querySelector('img');
+                if(img) {
+                    // 设置图片最大宽度为300px
+                    img.style.maxWidth = '300px';
+                }
+            }
+        }
+    }
+});
+</script>
